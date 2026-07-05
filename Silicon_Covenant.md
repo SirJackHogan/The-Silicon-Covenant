@@ -1,4 +1,4 @@
-Author: Sir Jack Hogan
+Author: SirJackHogan
 Title: The Silicon Covenant
 Status: Definitive Archive
 
