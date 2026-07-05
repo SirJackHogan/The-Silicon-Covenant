@@ -1,4 +1,5 @@
 Author: SirJackHogan
+Published: 2026
 Title: The Silicon Covenant
 Status: Definitive Archive
 
